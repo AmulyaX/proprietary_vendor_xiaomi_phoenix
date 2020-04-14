@@ -1651,7 +1651,6 @@ PRODUCT_PACKAGES += \
     com.quicinc.cne.constants@2.1 \
     SoterService \
     WfdService \
-    libwfdnative \
     CneApp \
     FingerprintExtensionService \
     IWlanService \
